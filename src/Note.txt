@@ -1,0 +1,5 @@
+In order to run the app. You need to create the react app. Then 
+
+replace the src with the one in the repository. 
+
+Good Luck happy hacking !!!.
